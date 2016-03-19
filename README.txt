@@ -7,13 +7,13 @@ All recipes give instrucions to prepare the meals.
 
 RUNNING THE APP
 
-The VidaLeve app isn't available for download in the Play Store yet, so if you want to run the app on you phone you'll need to follow the steps below:
+The VidaLeve app isn't available for download in the PlayStore yet, so if you want to run the app on you phone you'll need to follow the steps below:
 
 #1 Download the Android Studio here <http://developer.android.com/intl/pt-br/sdk/index.html>
 
-#2 After Android Studio is installed, extract the app files to the directory [C:\User\"YourUserName"directory\AndroidStudioProjects]
+#2 After Android Studio is installed, download the directory "MyApplication3", copy it and past into the directory [C:\User\"YourUserName"directory\AndroidStudioProjects]
 
-#3 Open the Android Studio and go to File>Open.. and select the VidaLeve file.
+#3 Open the Android Studio and go to File>Open.. and select the "MyApplication3" file.
 
 #4 Connect your phone to the PC, the go to Run>Run... and configure your phone as the emulator for the project. Click "Ok".
 
