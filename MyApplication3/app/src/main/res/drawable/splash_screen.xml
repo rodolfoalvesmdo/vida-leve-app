@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Set up the image of the splash screen. -->
+    <item
+        android:drawable="@drawable/vida_leve_splash_screen1"/>
+
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/vida_leve_splash_screen1"/>
+    </item>
+
+</layer-list>
+

@@ -1,0 +1,5 @@
+
+The app idea that I choose was an app would teach people 5 easy-to-cook healthy recipes.
+Thinking about my own need to change my eating habits and the difficuly to find delicious and fast healthy meals, I searched fora few good recipes to build a complete menu for the day.
+One recipe for each of the main daily meals (breakfast, lunch and dinner), one for a snack and one for a dessert.
+I hope that trying these recipes at home, peaple will understand that it's possible to eat delicious and healthy food at the same time, and finally stop eating junk/fast-food so often.
